@@ -1,5 +1,5 @@
  # 🌐 CoreSpeed Zypher Agent — Technical Assessment  
- ### _Built by: ashd32_
+ ### _Built by: AshleyD_
 
  This project is my submission for the **CoreSpeed Technical Assessment**, implementing a fully functional AI Agent using **Zypher**, CoreSpeed’s agent framework.  
 
@@ -146,8 +146,7 @@ Create `backend/.env`:
 
  A short demo video (screen recording) can be linked here:
 
- - Loom / YouTube / etc.  
- - **Example:** `https://www.loom.com/share/your-demo-link`
+  `https://www.loom.com/share/20f98b200b304f36a76484a4a5fbc684`
 
  ---
 
@@ -169,4 +168,4 @@ Create `backend/.env`:
 
  ## 👋 Author
 
- - GitHub: https://github.com/ashd32
+ - GitHub: https://github.com/DevAshleyD
